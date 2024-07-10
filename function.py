@@ -50,3 +50,16 @@ def new_func():
     global x
 foo()
 print(f"Global: {x}")  
+
+#function
+def greet():
+    print("Hello Dan")
+    print("How are you?")
+    
+greet()
+greet()
+greet()
+
+
+
+    
