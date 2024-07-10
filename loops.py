@@ -19,3 +19,13 @@ count = 100
 while count>0:
     print(count)
     count = count-1
+    
+    
+#For loop - It iterates over a sequence
+name = "Mary"
+for char in name:
+    print(char)
+    
+fruits = ["Banana","Grapes","Oranges","Matunda Damu","WaterMelon","etc."]
+for fruit in fruits:
+    print(fruit)
